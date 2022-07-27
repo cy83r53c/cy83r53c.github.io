@@ -14,6 +14,10 @@ body {
 /*-- Inspiration taken from abdo steif -->
 /* --> https://codepen.io/abdosteif/pen/bRoyMb?editors=1100*/
 
+.socials a i {
+  color: white;
+}
+
 .ref_logo {
   margin-top: 20px;
   margin-right: 20px;
